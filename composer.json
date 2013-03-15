@@ -1,6 +1,7 @@
 {
 	"name": "fancyguy/wordpress-twig",
 	"description": "Allows WordPress to render twig templates.",
+	"type": "wordpress-plugin",
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
